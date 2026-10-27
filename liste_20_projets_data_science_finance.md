@@ -1,7 +1,7 @@
 # 20 projets de science des données orientés finance, banque et FinTech
 
 **Public :** licence avancée, master, reconversion professionnelle  
-**Durée indicative :** 2 à 4 semaines par projet  
+**Durée indicative :** 2 semaines par projet  
 **Outils :** Python, pandas, NumPy, scikit-learn, matplotlib, Google Colab
 
 ## Tableau récapitulatif
